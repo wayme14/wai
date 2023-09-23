@@ -72,11 +72,12 @@ https://liveaneviadev.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://assets-a1.kompasiana.com/items/album/2017/05/21/logo1-59219cbc129373a15b6c75bd.png" group-title="TV Indonesia", NET
 http://210.210.155.37/uq2663/h/h06/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=NET.
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/220px-NET._sky_blue.svg.png" group-title="TV Indonesia", NET
-#http://210.210.155.35/qwr9ew/s/s08/index10.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=NET.
+#NET BACKUP#
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/220px-NET._sky_blue.svg.png" group-title="TV Indonesia", NET
+http://210.210.155.35/qwr9ew/s/s08/index10.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=NET.
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
