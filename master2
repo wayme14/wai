@@ -400,6 +400,12 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch174%29/index
 
 <================ Knowledge & Documentary ==========================>
 
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Discovery_life_logo.png",Discovery Life
+http://cord-cutter.net:8080/live/95549031/69361122/9861.ts
+
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://theme.zdassets.com/theme_assets/9513797/00ccc92c700ca1655a4387cc59200d4e650b0aa1.png",Discovery Family
+http://cord-cutter.net:8080/live/95549031/69361122/10538.ts
+
 #EXTINF:-1 group-title="Knowledge & Documentary"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1024px-National_Geographic_Wild_logo.svg.png",National Geographic Wild
 http://cord-cutter.net:8080/live/95549031/69361122/11664.ts
 
