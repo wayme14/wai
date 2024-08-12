@@ -1,6 +1,6 @@
 #EXTM3U
 
-============================================== BRI LIGA 1 ===========================================================================
+============================================== BRI LIGA 1 ===========================================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="BRI LIGA 1",Indosiar|flextv
 http://filex.tv:8080/paramjeetsingh/002818/302264
@@ -38,7 +38,7 @@ https://s7.mbahnunungonline.net/live/m3u8/id/575eeb9f08dc8db.m3u8|user-agent=Moz
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="BRI LIGA 1",Indosiar.(indihome)
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
-============================================== INDONESIA CHANNEL ====================================================================
+============================================== INDONESIA CHANNEL ====================================================================================================================
 
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml" refresh="1440" max-conn="1" refresh="24"
 
