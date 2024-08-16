@@ -43,6 +43,108 @@ https://s7.mbahnunungonline.net/live/m3u8/id/575eeb9f08dc8db.m3u8|user-agent=Moz
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="BRI LIGA 1", Indosiar.(indihome)
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
+============================================== LIVE EVENT ===========================================================================================================================
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/logo-live-event" group-title="Live Event",LIVE 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/red/play.php?id=17475&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://dusk.biz.id/red/play.mpd?id=17475&type=dash
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/logo-live-event" group-title="Live Event",LIVE 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/red/play.php?id=17478&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://dusk.biz.id/red/play.mpd?id=17478&type=dash
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/logo-live-event" group-title="Live Event",LIVE 3
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://dusk.biz.id/red/play.m3u8?id=17475&type=hls
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/logo-live-event" group-title="Live Event",LIVE 4
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://dusk.biz.id/red/play.m3u8?id=206&type=hls
+
+#EXTINF:0 tvg-logo="https://asianvolleyball.net/new/wp-content/uploads/2019/01/AVC-Logo-n.png" group-title="Live Event",AVC 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/red/play.php?id=206&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://dusk.biz.id/red/play.mpd?id=206&type=dash
+
+#EXTINF:0 tvg-logo="https://asianvolleyball.net/new/wp-content/uploads/2019/01/AVC-Logo-n.png" group-title="Live Event",AVC 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://dusk.biz.id/red/play.m3u8?id=206&type=hls
+
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/future/images/f/f1/2024_AFF_Championship_logo.png/revision/latest?cb=20240229081608" group-title="Live Event",AFF U19 (1)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/red/play.php?id=206&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://dusk.biz.id/red/play.mpd?id=206&type=dash
+
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/future/images/f/f1/2024_AFF_Championship_logo.png/revision/latest?cb=20240229081608" group-title="Live Event",AFF U19 (2)
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://dusk.biz.id/red/play.m3u8?id=206&type=hls
+
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/future/images/f/f1/2024_AFF_Championship_logo.png/revision/latest?cb=20240229081608" group-title="Live Event",AFF U19 (3)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/red/play.php?id=206&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://dusk.biz.id/red/play.mpd?id=206&type=dash
+
+#EXTINF:0 tvg-logo="https://cdn.bleacherreport.net/images/team_logos/328x328/ibl.png" group-title="Live Event",IBL(1)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/red/play.php?id=16909&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://dusk.biz.id/red/play.mpd?id=16909&type=dash
+
+#EXTINF:0 tvg-logo="https://cdn.bleacherreport.net/images/team_logos/328x328/ibl.png" group-title="Live Event",IBL(2)
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://dusk.biz.id/red/play.m3u8?id=16909&type=hls
+
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-cvUgFHvk5sE/XH0FJN6fQmI/AAAAAAAASF4/u_TM1S8VEoMWii7tYz16TQZdVLYvl9lDACLcBGAs/s1600/Piala%2BPresiden%2B2019.png" group-title="Live Event",Piala President 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/carpet/play.php?id=17585&type=drm
+https://dusk.biz.id/carpet/play.mpd?id=17585&type=dash
+
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-cvUgFHvk5sE/XH0FJN6fQmI/AAAAAAAASF4/u_TM1S8VEoMWii7tYz16TQZdVLYvl9lDACLcBGAs/s1600/Piala%2BPresiden%2B2019.png" group-title="Live Event",Piala President 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://dusk.biz.id/red/play.m3u8?id=206&type=hls
+
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-cvUgFHvk5sE/XH0FJN6fQmI/AAAAAAAASF4/u_TM1S8VEoMWii7tYz16TQZdVLYvl9lDACLcBGAs/s1600/Piala%2BPresiden%2B2019.png" group-title="Live Event",Piala President 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/red/play.php?id=17585&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://dusk.biz.id/red/play.mpd?id=17585&type=dash
+
+#EXTINF:0 tvg-logo="http://www.pngmart.com/files/4/Volleyball-PNG-Photo.png" group-title="Live Event",PRO LIGA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/red/play.php?id=17252&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://dusk.biz.id/red/play.mpd?id=17252&type=dash
+
+#EXTINF:0 tvg-logo="http://www.pngmart.com/files/4/Volleyball-PNG-Photo.png" group-title="Live Event",PRO LIGA (2)
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://dusk.biz.id/red/play.m3u8?id=206&type=hls
+
+#EXTINF:0 tvg-logo="https://s.id/logo-ligabri" group-title="Live Event",LIGA BRI (1) 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/red/play.php?id=17584&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://dusk.biz.id/red/play.mpd?id=17584&type=dash
+
+#EXTINF:0 tvg-logo="https://s.id/logo-ligabri" group-title="Live Event",LIGA BRI (2)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://testfunctionlive.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTINF:0 tvg-logo="https://s.id/logo-ligabri" group-title="Live Event",Liga BRI (3) 
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://dusk.biz.id/red/play.m3u8?id=205&type=hls
+
 ============================================== INDONESIA CHANNEL ====================================================================================================================
 
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml" refresh="1440" max-conn="1" refresh="24"
