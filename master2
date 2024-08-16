@@ -2,10 +2,10 @@
 
 ============================================== BRI LIGA 1 ==========================================================================================================================
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/750x500/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="BRI LIGA 1", BRI LIGA 1
-https://lebo.huminbird.cn/live/ballbar_22380.m3u8
+https://lebo.huminbird.cn/live/ballbar_34830.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/750x500/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="BRI LIGA 1", BRI LIGA 1
-https://lebo.huminbird.cn/live/ballbar_38940.m3u8
+https://makanviet.tipikuy.workers.dev/live/stream-283501_lsd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="BRI LIGA 1", Indosiar|flextv
 http://filex.tv:8080/paramjeetsingh/002818/302264
@@ -143,7 +143,7 @@ https://testfunctionlive.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3
 
 #EXTINF:-1 tvg-logo="https://s.id/logo-ligabri" group-title="Live Event",Liga BRI (3) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://dusk.biz.id/red/play.m3u8
+https://dusk.biz.id/red/play.m3u8?id=205&type=hls
 
 ============================================== INDONESIA CHANNEL ====================================================================================================================
 
