@@ -141,7 +141,7 @@ https://dusk.biz.id/red/play.mpd?id=17584&type=dash
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://testfunctionlive.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://s.id/logo-ligabri" group-title="Live Event",Liga BRI (33) 
+#EXTINF:-1 tvg-logo="https://s.id/logo-ligabri" group-title="Live Event",Liga BRI (3) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://dusk.biz.id/red/play.m3u8
 
