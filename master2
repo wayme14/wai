@@ -170,6 +170,9 @@ https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 ============================================== LIVE EVENT ===========================================================================================================================
 
+#EXTINF:-1 tvg-logo="https://www.psjtv.id/wp-content/uploads/2023/06/PSJTV-Tagline-Putih.png" group-title="Live Event",PSJ TV
+https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://tinyurl.com/logo-live-event" group-title="Live Event",LIVE 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/red/play.php?id=17475&type=drm
