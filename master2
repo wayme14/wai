@@ -3,17 +3,14 @@
 
 ============================================== BRI LIGA 1 ==========================================================================================================================
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/750x500/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="BRI LIGA 1", BRI LIGA 1 new
-https://bf.shandongjnkt.com/live/322674_hd01.m3u8?txSecret=539ab5ff1082118ff65c4f491cb35b4b&txTime=66cc6f4c
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/750x500/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="BRI LIGA 1", BRI LIGA 1 new
-https://lebo.huminbird.cn/live/ballbar_18220.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/750x500/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="BRI LIGA 1", BRI LIGA 1 - jala
-https://bf.shandongjnkt.com/live/322665_hd01.m3u8?txSecret=68092c9572e59a2c72c346f3979836fb&txTime=66cb200c
-
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/750x500/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="BRI LIGA 1", BRI LIGA 1 - gocek
-https://github.com/wayme14/wai/raw/main/saus/indosiar.m3u8
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="BRI LIGA 1",Indosiar BRI Liga Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=205&type=drm
+http://gatotkaca007.serv00.net/red/play.mpd?id=205&type=dash
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="BRI LIGA 1", Indosiar|flextv
 http://filex.tv:8080/paramjeetsingh/002818/302264
