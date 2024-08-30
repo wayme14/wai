@@ -46,7 +46,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" group-title="INDONESIA",TVONE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
-https://d1abp075u76pbq.cloudfront.net/live/eds/TVOne/sa_dash_vmx/TVOne.mpd|Referer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd|Referer=https://www.visionplus.id/
 
 #EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_103.png" group-title="INDONESIA",Berita Satu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
