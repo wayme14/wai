@@ -222,7 +222,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.m
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_307.png" group-title="OLAHRAGA",UseePrime
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png" group-title="OLAHRAGA",UseePrime
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 
