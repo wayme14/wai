@@ -1,8 +1,6 @@
 #EXTM3U
 
-
 ====================================================== MOVIES =================================================================================================
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png" group-title="Premium Movies",Paramount Network
