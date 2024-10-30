@@ -465,43 +465,44 @@ http://cord-cutter.net:8080/live/95549031/69361122/9861.ts
 http://cord-cutter.net:8080/live/95549031/69361122/10538.ts
 
 #EXTINF:-1 group-title="Knowledge & Documentary"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1024px-National_Geographic_Wild_logo.svg.png",National Geographic Wild
-http://cord-cutter.net:8080/live/95549031/69361122/11664.ts
+http://119.156.26.155:8000/play/a06f/index.m3u8
 
 #EXTINF:-1 group-title="Knowledge & Documentary"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet
 https://raw.githubusercontent.com/wayme14/wai/main/saus/animalplanet.m3u8
 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/e3cb40f0/5601_r32.jpg" group-title="Knowledge & Documentary",History HD
-https://cempedak-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/718.m3u8
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/8131.m3u8
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c154c12b5f8336cc9cbef82fb5cc0ab4:5c365427c75eacf217255effcb5fff3e
 #EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/df51ed9c/5586_r32.jpg" group-title="Knowledge & Documentary",BBC Earth
 https://cempedak-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTINF:-1 #EXTVLCOPT:http-referrer=https://www.visionplus.id/tvg-logo="https://absatellite.com/wp-content/uploads/outdoor_channel_hd.png" group-title="Knowledge & Documentary",Outdoor Channel
-https://cempedak-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OZ8lCeO.png" group-title="Knowledge & Documentary",National Geographic
-http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60358
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/016/50016-SNAPSHOT-l.png" group-title="Knowledge & Documentary" tvg-id="" tvg-name="", Outdoor Channel
+https://cempedak-live-cdn.mncnow.id/live/eds/outdoorchannel/sa_dash_vmx/outdoorchannel.mpd
 
 #EXTINF:-1 group-title="Knowledge & Documentary"tvg-logo="https://i.imgur.com/OZ8lCeO.png" group-title="Knowledge & Documentary",National Geographic
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3281
+http://119.156.26.155:8000/play/a06r/index.m3u8
 
 #EXTINF:-1 group-title="Knowledge & Documentary"tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-HD.png?v=2.0.0.13" group-title="Knowledge & Documentary",DISCOVERY ASIA
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="Knowledge & Documentary",DMAX TV 
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
+#EXTINF:-1 tvg-id="DMAXSoutheastAsia.sg" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="Knowledge & Documentary",DMAX TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Moz+1Ry6G/pB8b2iGc7v+A", "kid":"YvrpNekcTo2eg1opTqgZCQ" } ], "type":"temporary" }
+https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
