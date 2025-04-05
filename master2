@@ -123,6 +123,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd|R
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" group-title="INDONESIA",Trans 7 2
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" group-title="INDONESIA",Trans 7 3
+https://live-b.cf.dmcdn.net/sec2(1Kpqk85dJMgqUZo5jlv1hfOY7wmV4WEy9jP2FH_IVuvW7RBltFgTRA7PCOg26FT47od6AVGKyJwT1Hu0x1rHPqChFGgEcvsBdqD6LoR2HOZq4DAp9HuAo2cTT1w5KUqn)/dm/3/x8qckyq/s/live-720.m3u8
+
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_116.jpg" group-title="INDONESIA",NET TV 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6b7bbcf1d511a56e6b3ceda392e4fa33:d1766244d7c1c44efd4c67aafae3ee7b
