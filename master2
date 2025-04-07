@@ -120,11 +120,13 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
 https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" group-title="INDONESIA",Trans 7 2
-https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" group-title="INDONESIA",Trans 7 3
-https://live-b.cf.dmcdn.net/sec2(1Kpqk85dJMgqUZo5jlv1hfOY7wmV4WEy9jP2FH_IVuvW7RBltFgTRA7PCOg26FT47od6AVGKyJwT1Hu0x1rHPqChFGgEcvsBdqD6LoR2HOZq4DAp9HuAo2cTT1w5KUqn)/dm/3/x8qckyq/s/live-720.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYPj6Q3ggs3TMU5GqFnXp6dXvTRa2WZzBixg&usqp=CAU" group-title="INDONESIA",Trans 7 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_116.jpg" group-title="INDONESIA",NET TV 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
