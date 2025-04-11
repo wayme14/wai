@@ -100,12 +100,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd|
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115.png" group-title="INDONESIA",ANTV 1
-https://cempedak-cdn-fly.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd|Referer=https://www.visionplus.id/&user-agent=Android
-
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115.png" group-title="INDONESIA",ANTV 2
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115.png" group-title="INDONESIA",ANTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
