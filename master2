@@ -41,7 +41,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" group-title="INDONESIA",Metro TV 1
-https://atemeshield1-voe.sysln.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
