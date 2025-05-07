@@ -67,6 +67,9 @@ https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_106.png" group-title="INDONESIA",Kompas TV
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/KompasTV/sa_dash/KompasTV.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="ID: Kompas TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="INDONESIA",ID: Kompas TV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165060
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
