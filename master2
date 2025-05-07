@@ -32,12 +32,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png" group-title="INDONESIA",Inews 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
-#https://dsgtq5sngxkde.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157579
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png" group-title="INDONESIA",Inews 2
